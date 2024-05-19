@@ -3,9 +3,9 @@ import { SearchLogo } from '../svgs'
 
 const Search = () => {
   return (
-    <div>
+    <div className='font-mono'>
       <SearchLogo className='md:hidden' />
-        <input type='Search' name='Search' placeholder='Search...' className='rounded-full h-12 pl-4 hidden lg:block'>
+        <input type='Search' name='Search' placeholder='Search...' className='outline-none rounded-full h-12 pl-4 w-[15rem] hidden lg:block'>
         </input>
     </div>
   )

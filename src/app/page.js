@@ -36,7 +36,7 @@ export default function Home() {
       {/* --- Main Body --- */}
       <section>
         <FirstBody/>
-        <marquee behavior="alternate">
+        <marquee behavior="alternate" onbounce>
           <Slider/>
         </marquee>
         <SecondBody/>

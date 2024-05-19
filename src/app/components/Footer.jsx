@@ -1,5 +1,5 @@
 import React from 'react'
-import { DribbleLogo } from '../svgs'
+import { DribbleLogo,XIcon,FbIcon,InstaIcon,PinIcon } from '../svgs'
 
 const Footer = () => {
   return (
@@ -17,8 +17,14 @@ const Footer = () => {
         <li><a href='#'>About</a></li>
         <li><a href='#'>Careers</a></li>
       </ul>
-      <div className='flex justify-center text-sm font-bold'>
+      <div className='flex justify-center text-sm font-bold pb-3'>
         <a>Support</a>
+      </div>
+      <div className='flex justify-center gap-4 items-center'>
+        <a href='https://x.com/' target='_blank'><XIcon/></a>
+        <a href='https://www.facebook.com/' target='_blank'><FbIcon/></a>
+        <a href='https://www.instagram.com/' target='_blank'><InstaIcon/></a>
+        <a href='https://in.pinterest.com/' target='_blank'><PinIcon/></a>
       </div>
       </div>
       <div className='md:flex md:flex-row lg:gap-12'>
