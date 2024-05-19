@@ -6,11 +6,11 @@ const Mainnav = () => {
   return (
     <div className='hidden md:block'>
         <ul className="flex justify-between gap-4 pl-4 z-10 lg:gap-8">
-          <li><a href="#">Find designers</a></li>
-          <li><a href="#">Inspiration</a></li>
-          <li><a href="#">Courses</a></li>
-          <li><Link href="/home">Jobs</Link></li>
-          <li><a href="#">GoPro</a></li>
+          <li ><a href="#" className='hover:opacity-65'>Find designers</a>&#x25BC;</li>
+          <li className='hover:opacity-65'><a href="#" >Inspiration</a></li>
+          <li ><a href="#" className='hover:opacity-65'>Courses </a>&#x25BC;</li>
+          <li className='hover:opacity-65'><Link href="/home">Jobs</Link></li>
+          <li className='hover:opacity-65'><a href="#">GoPro</a></li>
         </ul>
     </div>
   )

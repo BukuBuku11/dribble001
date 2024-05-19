@@ -7,6 +7,10 @@ import { Hamburger, DribbleLogo } from "./svgs";
 import Mainnav from "./components/Mainnav";
 import { useState } from "react";
 import SecondBody from "./components/SecondBody";
+import Cardss from "./components/Cardss";
+import Footer from "./components/Footer";
+import ThirdBody from "./components/ThirdBody";
+import Slider from "./components/Slider";
 
 export default function Home() {
   const [isOpen, makeOpen] = useState(false);
@@ -14,7 +18,7 @@ export default function Home() {
     makeOpen(!isOpen);
   }
   return (
-    <div className="bg-zinc-100 w-auto h-auto relative">
+    <div className="bg-[#f8f7f4] w-auto h-auto relative">
       {/*--- Navigation Bar ---*/}
       <navbar className="flex items-center justify-between mx-6 relative">
         <button onClick={toggleMenu} className="md:hidden">
@@ -32,8 +36,16 @@ export default function Home() {
       {/* --- Main Body --- */}
       <section>
         <FirstBody/>
+        <marquee behavior="alternate">
+          <Slider/>
+        </marquee>
         <SecondBody/>
+        <Cardss/>
+        <ThirdBody/>
       </section>
+      <foot>
+      <Footer/>
+      </foot>
     </div>
   );
 }
