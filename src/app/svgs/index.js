@@ -6,3 +6,4 @@ export {default as InstaIcon } from "./Instagram.svg"
 export {default as XIcon } from "./Twitter.svg"
 export {default as PinIcon } from "./Pinterest.svg"
 export {default as FbIcon} from "./Facebook.svg"
+

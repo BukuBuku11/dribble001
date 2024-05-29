@@ -12,6 +12,7 @@ const Cardss = () => {
       pimg={datas[0].pimg}
       name={datas[0].name}
       likes={datas[0].likes}
+      about={datas[0].about}
       />
       <Card
       key={datas[1].id}
@@ -19,6 +20,7 @@ const Cardss = () => {
       pimg={datas[1].pimg}
       name={datas[1].name}
       likes={datas[1].likes}
+      about={datas[1].about}
       />
       <Card
       key={datas[2].id}
@@ -26,6 +28,7 @@ const Cardss = () => {
       pimg={datas[2].pimg}
       name={datas[2].name}
       likes={datas[2].likes}
+      about={datas[2].about}
       />
       <Card
       key={datas[3].id}
@@ -33,6 +36,7 @@ const Cardss = () => {
       pimg={datas[3].pimg}
       name={datas[3].name}
       likes={datas[3].likes}
+      about={datas[3].about}
       />
       <Card
       key={datas[4].id}
@@ -40,6 +44,7 @@ const Cardss = () => {
       pimg={datas[4].pimg}
       name={datas[4].name}
       likes={datas[4].likes}
+      about={datas[4].about}
       />
       <Card
       key={datas[5].id}
@@ -47,6 +52,7 @@ const Cardss = () => {
       pimg={datas[5].pimg}
       name={datas[5].name}
       likes={datas[5].likes}
+      about={datas[5].about}
       />
       <Card
       key={datas[6].id}
@@ -54,6 +60,7 @@ const Cardss = () => {
       pimg={datas[6].pimg}
       name={datas[6].name}
       likes={datas[6].likes}
+      about={datas[6].about}
       />
       <Card
       key={datas[7].id}
@@ -61,6 +68,7 @@ const Cardss = () => {
       pimg={datas[7].pimg}
       name={datas[7].name}
       likes={datas[7].likes}
+      about={datas[7].about}
       />
       <Card
       key={datas[8].id}
@@ -68,6 +76,7 @@ const Cardss = () => {
       pimg={datas[8].pimg}
       name={datas[8].name}
       likes={datas[8].likes}
+      about={datas[8].about}
       />
             <Card
       key={datas[9].id}
@@ -75,6 +84,7 @@ const Cardss = () => {
       pimg={datas[9].pimg}
       name={datas[9].name}
       likes={datas[9].likes}
+      about={datas[9].about}
       />
       <Card
       key={datas[10].id}
@@ -82,6 +92,7 @@ const Cardss = () => {
       pimg={datas[10].pimg}
       name={datas[10].name}
       likes={datas[10].likes}
+      about={datas[10].about}
       />
       <Card
       key={datas[11].id}
@@ -89,6 +100,7 @@ const Cardss = () => {
       pimg={datas[11].pimg}
       name={datas[11].name}
       likes={datas[11].likes}
+      about={datas[11].about}
       />
     </div>
   )

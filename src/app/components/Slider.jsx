@@ -2,7 +2,7 @@ import React from 'react'
 
 const Slider = () => {
   return (
-    <div className='flex justify-center items-center gap-10 my-10'>
+    <div className='inline-flex items-center gap-8 my-10 drop-shadow-xl'>
             <video 
             src='https://cdn.dribbble.com/uploads/47181/original/1e3a73a174484bef522b620c401cd00a.mp4?1685645427'
             width={273}
