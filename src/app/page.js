@@ -9,6 +9,7 @@ import Cardss from "./components/Cardss";
 import Footer from "./components/Footer";
 import ThirdBody from "./components/ThirdBody";
 import Slider from "./components/Slider";
+import { GoogleOAuthProvider } from '@react-oauth/google';
 
 export default function Home() {
   return (
@@ -19,7 +20,11 @@ export default function Home() {
         <DribbleLogo className="size-24"/>
         <ul className="flex gap-6 items-center">
           <li><Search /></li>
-          <li><Login/></li>
+          <li>
+          <GoogleOAuthProvider clientId="985823329913-taihlmsa4bom934loeh6dbh5tbnumk82.apps.googleusercontent.com">
+            <Login/>
+         </GoogleOAuthProvider>  
+          </li>
         </ul>
       </navbar>
       {/* --- Main Body --- */}

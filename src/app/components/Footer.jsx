@@ -7,24 +7,24 @@ const Footer = () => {
       <DribbleLogo className='size-24'/>
       <div className='sm:flex flex-row md:gap-8'>
       <ul className='flex gap-3 text-sm justify-center pb-3 font-bold lg:gap-12'>
-        <li><a href='#'>For designers</a></li>
-        <li><a href='#'>Hire talent</a></li>
-        <li><a href='#'>Inspiration</a></li>
+        <li><a className='hover:opacity-70' href='#'>For designers</a></li>
+        <li><a className='hover:opacity-70' href='#'>Hire talent</a></li>
+        <li><a className='hover:opacity-70' href='#'>Inspiration</a></li>
       </ul>
       <ul className='flex gap-3 text-sm justify-center pb-3 font-bold lg:gap-12'>
-        <li><a href='#'>Advertising</a></li>
-        <li><a href='#'>Blog</a></li>
-        <li><a href='#'>About</a></li>
-        <li><a href='#'>Careers</a></li>
+        <li><a className='hover:opacity-70' href='#'>Advertising</a></li>
+        <li><a className='hover:opacity-70' href='#'>Blog</a></li>
+        <li><a className='hover:opacity-70' href='#'>About</a></li>
+        <li><a className='hover:opacity-70' href='#'>Careers</a></li>
       </ul>
       <div className='flex justify-center text-sm font-bold pb-3'>
-        <a>Support</a>
+        <a className='hover:opacity-70'>Support</a>
       </div>
       <div className='flex justify-center gap-4 items-center'>
-        <a href='https://x.com/' target='_blank'><XIcon/></a>
-        <a href='https://www.facebook.com/' target='_blank'><FbIcon/></a>
-        <a href='https://www.instagram.com/' target='_blank'><InstaIcon/></a>
-        <a href='https://in.pinterest.com/' target='_blank'><PinIcon/></a>
+        <a className='hover:opacity-70' href='https://x.com/' target='_blank'><XIcon/></a>
+        <a className='hover:opacity-70' href='https://www.facebook.com/' target='_blank'><FbIcon/></a>
+        <a className='hover:opacity-70' href='https://www.instagram.com/' target='_blank'><InstaIcon/></a>
+        <a className='hover:opacity-70' href='https://in.pinterest.com/' target='_blank'><PinIcon/></a>
       </div>
       </div>
       <div className='md:flex md:flex-row lg:gap-12'>

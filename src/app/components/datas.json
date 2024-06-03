@@ -4,7 +4,6 @@
         "img": "/img1.png",
         "pimg": "/profile1.jpg",
         "name": "Srdjan Vidakovic",
-        "likes": "114",
         "about": "History of world"
     },
     {
@@ -12,7 +11,6 @@
         "img": "/img2.png",
         "pimg": "/profile2.jpg",
         "name": "Ben Stafford",
-        "likes": "127",
         "about": "Together logo"
     },
     {
@@ -20,7 +18,6 @@
         "img": "/img3.jpg",
         "pimg": "/profile3.png",
         "name": "Isshin Sento",
-        "likes": "83",
         "about": "The Avery logo"
     },
     {
@@ -28,7 +25,6 @@
         "img": "/img4.jpg",
         "pimg": "/profile4.jpg",
         "name": "Hyouyin Kyouma",
-        "likes": "216",
         "about": "Retro design"
     },
     {
@@ -36,7 +32,6 @@
         "img": "/img5.jpg",
         "pimg": "/profile5.jpg",
         "name": "Ramy Wafaa",
-        "likes": "411",
         "about": "Mexican poster"
     },
     {
@@ -44,7 +39,6 @@
         "img": "/img6.jpg",
         "pimg": "/profile6.jpg",
         "name": "Alaina Johnson",
-        "likes": "166",
         "about": "Save the computer"
     },
     {
@@ -52,7 +46,6 @@
         "img": "/img7.png",
         "pimg": "/profile7.png",
         "name": "Nikita Bauer",
-        "likes": "199",
         "about": "The portrait"
     },
     {
@@ -60,7 +53,6 @@
         "img": "/img8.jpg",
         "pimg": "/profile8.jpg",
         "name": "tubik",
-        "likes": "39",
         "about": "Cringe art"
     },
     {
@@ -68,7 +60,6 @@
         "img": "https://cdn.dribbble.com/userupload/14594452/file/original-a4a702325fee1615c04c5fc7dc6755e7.jpg?resize=1504x1316",
         "pimg": "https://cdn.dribbble.com/users/289158/avatars/small/6d51c314867299c1de2524b6b025802e.jpg?1705016347",
         "name": "Manuel Cetina",
-        "likes": "119",
         "about": "Ratatouille boating"
     },
     {
@@ -76,7 +67,6 @@
         "img": "https://cdn.dribbble.com/userupload/14554780/file/original-e741368249bd8518fa7b33d970e13698.jpg?resize=1504x1504",
         "pimg": "https://cdn.dribbble.com/users/42659/avatars/small/729d1b0be99397dcecf5330727e18fb4.png?1565080316",
         "name": "Steve Wolf",
-        "likes": "342",
         "about": "Sun giant"
     },
     {
@@ -84,7 +74,6 @@
         "img": "https://cdn.dribbble.com/userupload/14600121/file/original-f8dbf2e94ec02b742de211d1bde58544.jpg?resize=752x564",
         "pimg": "https://cdn.dribbble.com/users/79978/avatars/small/44a19a36ec2e56e47f59096c2781f37d.png?1478106185",
         "name": "Szende Brassai",
-        "likes": "666",
         "about": "Skull art"
     },
     {
@@ -92,7 +81,6 @@
         "img": "https://cdn.dribbble.com/userupload/14553222/file/original-dbe3c9bb7b1cb175b32824bf9d1a1996.jpg?resize=1504x1128",
         "pimg": "https://cdn.dribbble.com/users/52084/avatars/small/692992651656234d8bddb5823a090f98.jpg?1510596786",
         "name": "Paul Tubok",
-        "likes": "111",
         "about": "The The The"
     }
    
