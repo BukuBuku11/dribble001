@@ -13,6 +13,7 @@ import { GoogleOAuthProvider } from '@react-oauth/google';
 
 export default function Home() {
   return (
+    <>
     <div className="bg-[#f8f7f4] w-auto h-auto relative">
       {/*--- Navigation Bar ---*/}
       <navbar className="flex items-center justify-between mx-6 relative">
@@ -41,5 +42,6 @@ export default function Home() {
       <Footer/>
       </foot>
     </div>
+    </>
   );
 }
