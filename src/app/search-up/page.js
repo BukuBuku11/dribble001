@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import Template from './template'
+import Template from './Template'
 
 const page = () => {
   return (
