@@ -1,11 +1,11 @@
 "use client"
 import React from 'react'
-import Template from './Template'
+import Temp from './Temp'
 
 const page = () => {
   return (
     <div>
-      <Template/>
+      <Temp/>
     </div>
   )
 }

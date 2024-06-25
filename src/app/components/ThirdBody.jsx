@@ -13,7 +13,7 @@ const ThirdBody = () => {
       <a href='#' className='border-1 rounded-full bg-white p-4 text-black font-sans font-semibold hover:animate-pulse'>Learn about hiring</a>
       </div>
       <div className='flex flex-row mt-[4rem] text-xl font-sans'>
-      <p>Are you a designer?</p><a href='#' className='underline'> Join Dribble</a>
+      <p>Are you a designer?</p><a href='#' className='underline'>Join Dribble</a>
       </div>
     </div>
   )

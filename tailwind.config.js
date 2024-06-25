@@ -17,5 +17,7 @@ module.exports = {
     fill: ['hover', 'focus'],
     },
   },
-  plugins: [],
+  plugins: [
+    
+  ],
 };
