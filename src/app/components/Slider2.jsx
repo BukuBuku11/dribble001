@@ -14,7 +14,7 @@ const Slider2 = () => {
         src='https://cdn.dribbble.com/userupload/14844018/file/original-78bf484f7f07195e4f79a5ea19a4bf1f.png?format=webp&amp;resize={width}x{height}&amp;vertical=center'
         width={200}
         height={70}
-        className='rounded'>
+        className='rounded hover:scale-110 transition-transform ease-in-out duration-200'>
         </img>
         <span className='absolute -bottom-2 font-mono font-small'>Illustration</span>
         </div>
@@ -29,7 +29,7 @@ const Slider2 = () => {
         src='https://cdn.dribbble.com/userupload/14701453/file/still-fb2bd1e42bc743633054de1943e03c2c.png?format=webp&amp;resize={width}x{height}&amp;vertical=center'
         width={200}
         height={70}
-        className='rounded'>
+        className='rounded hover:scale-110 transition-transform ease-in-out duration-200'>
         </img>
         <span className='absolute -bottom-2 font-mono font-small'>Web Design</span>
         </div>
@@ -44,7 +44,7 @@ const Slider2 = () => {
         src='https://cdn.dribbble.com/userupload/14937273/file/original-02b665877681cf3ab3a1503e6d4af089.png?format=webp&amp;resize={width}x{height}&amp;vertical=center'
         width={200}
         height={70}
-        className='rounded'>
+        className='rounded hover:scale-110 transition-transform ease-in-out duration-200'>
         </img>
         <span className='absolute -bottom-2 font-mono font-small'>Typography</span>
         </div>
@@ -59,7 +59,7 @@ const Slider2 = () => {
         src='https://cdn.dribbble.com/userupload/15213807/file/original-de5d698e1e189326674072b36c1bbec4.jpg?format=webp&amp;resize={width}x{height}&amp;vertical=center'
         width={200}
         height={70}
-        className='rounded'>
+        className='rounded hover:scale-110 transition-transform ease-in-out duration-200'>
         </img>
         <span className='absolute -bottom-2 font-mono font-small'>Branding</span>
         </div>
@@ -74,7 +74,7 @@ const Slider2 = () => {
         src='https://cdn.dribbble.com/userupload/15040587/file/original-2e0fef224364282e6f9855227c27e72f.jpg?crop=65x49-1536x1152&amp;format=webp&amp;resize={width}x{height}&amp;vertical=center'
         width={200}
         height={70}
-        className='rounded'>
+        className='rounded hover:scale-110 transition-transform ease-in-out duration-200'>
         </img>
         <span className='absolute -bottom-2 font-mono font-small'>Product Design</span>
         </div>
@@ -89,7 +89,7 @@ const Slider2 = () => {
         src='https://cdn.dribbble.com/userupload/15127677/file/still-2308dd4b8a2eed7d48bd45d289064176.png?format=webp&amp;resize={width}x{height}&amp;vertical=center'
         width={200}
         height={70}
-        className='rounded'>
+        className='rounded hover:scale-110 transition-transform ease-in-out duration-200'>
         </img>
         <span className='absolute -bottom-2 font-mono font-small'>Animation</span>
         </div>
@@ -104,7 +104,7 @@ const Slider2 = () => {
         src='https://cdn.dribbble.com/userupload/15060031/file/original-1d16603679e4a973e967afea3e266644.jpg?format=webp&amp;resize={width}x{height}&amp;vertical=center'
         width={200}
         height={70}
-        className='rounded'>
+        className='rounded hover:scale-110 transition-transform ease-in-out duration-200'>
         </img>
         <span className='absolute -bottom-2 font-mono font-small'>Mobile</span>
         </div>
@@ -119,7 +119,7 @@ const Slider2 = () => {
         src='https://cdn.dribbble.com/userupload/14844018/file/original-78bf484f7f07195e4f79a5ea19a4bf1f.png?format=webp&amp;resize={width}x{height}&amp;vertical=center'
         width={200}
         height={70}
-        className='rounded'>
+        className='rounded hover:scale-110 transition-transform ease-in-out duration-200'>
         </img>
         <span className='absolute -bottom-2 font-mono font-small'>Print</span>
         </div>
@@ -134,7 +134,7 @@ const Slider2 = () => {
         src='https://cdn.dribbble.com/userupload/14701453/file/still-fb2bd1e42bc743633054de1943e03c2c.png?format=webp&amp;resize={width}x{height}&amp;vertical=center'
         width={200}
         height={70}
-        className='rounded'>
+        className='rounded hover:scale-110 transition-transform ease-in-out duration-200'>
         </img>
         <span className='absolute -bottom-2 font-mono font-small'>Branding</span>
         </div>

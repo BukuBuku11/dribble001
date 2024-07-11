@@ -9,7 +9,7 @@ const FirstBody = () => {
      <h1 className='text-5xl text-center mx-4 lg:w-[50rem] lg:text-[4.5rem]'>The world's destination for design</h1>
      <p className='text-center mx-10 lg:text-xl font-sans'>Get inspired by the work of millions of top-rated designers & agencies around the world.</p>
      <div className='bg-black text-white flex justify-center items-center w-28 rounded-full'>
-      <a href='#' className='p-3 font-sans font-semibold hover:animate-pulse'>Get started</a>
+      <a href='/api/auth/signin' className='p-3 font-sans font-semibold hover:animate-pulse'>Get started</a>
      </div>
     </div>
   )

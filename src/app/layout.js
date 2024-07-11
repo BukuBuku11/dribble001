@@ -5,7 +5,6 @@ import Search from "./components/Search";
 import Login from "./components/Login";
 import { DribbleLogo } from "./svgs";
 import Mainnav from "./components/Mainnav";
-import { GoogleOAuthProvider } from '@react-oauth/google';
 
 const Loraa = Lora({
   subsets: ['latin'],
@@ -29,9 +28,7 @@ export default function RootLayout({ children }) {
         <ul className="flex gap-6 items-center">
           <li><Search /></li>
           <li>
-          <GoogleOAuthProvider clientId="985823329913-taihlmsa4bom934loeh6dbh5tbnumk82.apps.googleusercontent.com">
-            <Login/>
-         </GoogleOAuthProvider>  
+            <Login/> 
           </li>
         </ul>
       </navbar>
